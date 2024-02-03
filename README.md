@@ -59,6 +59,6 @@ Copy your project's URL and submit it to freeCodeCamp.For the free cousre on Dat
 
 https://www.freecodecamp.org/learn/data-analysis-with-python/
 
-### SOlution Link
+### Solution Link
 
 https://replit.com/@Rajsingh129/Medica-Data
